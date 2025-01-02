@@ -19,6 +19,10 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 - **Cloud**: AWS, Azure
 - **Others**: CI/CD, Agile, REST APIs
 
+## ⭐ GitHub Stars:
+
+![GitHub stars](https://img.shields.io/github/stars/ajik1993?style=social)
+
 ## 📈 GitHub Stats:
 
 ![Ajik1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajik1993&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -27,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 - [Project-Name](https://github.com/ajik1993/Project-Name) - Brief description of the project.
 - [Another-Project](https://github.com/ajik1993/Another-Project) - Description of another cool project I've worked on.
-  
+
 ## 🤝 Let's Connect:
 
 - [LinkedIn](https://www.linkedin.com/in/ajik1993)
